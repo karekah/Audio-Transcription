@@ -1,0 +1,7 @@
+{
+  "name": "Audio Transcriber",
+  "description": "An intelligent web application that transcribes speech from audio files or live microphone recordings into text using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
